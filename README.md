@@ -1,4 +1,7 @@
-### Hi there 👋
+         Olá! Eu sou o Geovane Mendes 
+
+ 🌱 Estudando Dessenvolvimento de Sistemas
+
 
 <!--
 **Geovane-Mendes/Geovane-Mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
